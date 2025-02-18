@@ -29,7 +29,7 @@
           <mxGeometry x="180" y="920" width="66" height="63" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-14" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic_database;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="49.5" height="64.5" as="geometry" />
+          <mxGeometry x="370" y="384.5" width="49.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="553" width="63" height="63" as="geometry" />
@@ -40,25 +40,32 @@
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="199.5" y="740" width="79.5" height="79.5" as="geometry" />
         </mxCell>
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="QOSQDGM2Vr5bahmL-OwR-18" target="QOSQDGM2Vr5bahmL-OwR-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-18" value="File Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-19" value="Comand &amp;amp; Control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="310" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-20" value="Network Forense" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="310" width="130" height="60" as="geometry" />
+          <mxGeometry x="745" y="310" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-21" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic_database;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585.25" y="410" width="49.5" height="64.5" as="geometry" />
+          <mxGeometry x="695.5" y="384.5" width="49.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic_database;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="778" y="400" width="49.5" height="64.5" as="geometry" />
+          <mxGeometry x="859.5" y="384.5" width="49.5" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="QOSQDGM2Vr5bahmL-OwR-23" value="Message Broker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="500" y="540" width="250" height="60" as="geometry" />
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-23" value="&lt;b&gt;Message Broker&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QOSQDGM2Vr5bahmL-OwR-24" value="C&amp;amp;C&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="555" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-27" value="ACI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -72,6 +79,32 @@
         </mxCell>
         <mxCell id="QOSQDGM2Vr5bahmL-OwR-30" value="Frontend Portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="920" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOSQDGM2Vr5bahmL-OwR-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="370" />
+              <mxPoint x="650" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.12;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="529.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.968;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="370" as="sourcePoint" />
+            <mxPoint x="767.26" y="538.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOSQDGM2Vr5bahmL-OwR-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;endArrow=none;startFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOSQDGM2Vr5bahmL-OwR-20" target="QOSQDGM2Vr5bahmL-OwR-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
